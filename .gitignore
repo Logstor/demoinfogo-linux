@@ -6,3 +6,6 @@ protobuf-2.5.0
 *.tar
 *.gz
 *.o
+
+// Demo files for testing
+testfiles
